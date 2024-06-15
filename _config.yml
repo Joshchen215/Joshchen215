@@ -22,13 +22,13 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # Site Author
 author:
   name             : "陈佳鑫"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/joshchen/images/cjx.jpg"
   bio              : "厦门大学"
   location         : "福建 厦门"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
+  email            : "Joshchen215@Gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
