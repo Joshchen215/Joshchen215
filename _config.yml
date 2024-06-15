@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "陈佳鑫"
-description              : "电磁无损检测"
+description              : # "电磁无损检测"
 repository               : "Joshchen215/Joshchen215"
 google_scholar_stats_use_cdn : false
 
