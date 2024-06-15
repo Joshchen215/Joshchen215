@@ -31,8 +31,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2027.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="/joshchen215/images/xmu_logo.jpg" width="20pt"></a> 厦门大学 物流工程与管理, 福建厦门, 硕士研究生 
-- *2020.09 - 2024.06*, <a href="https://www.gdut.edu.cn/"><img class="jpg" src="/joshchen215/images/gdut_logo.jpg" width="20pt"></a> 广东工业大学 信息管理与信息系统, 广东广州, 本科
+- *2024.09 - 2027.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="/Joshchen215/images/xmu_logo.jpg" width="20pt"></a> 厦门大学 物流工程与管理, 福建厦门, 硕士研究生 
+- *2020.09 - 2024.06*, <a href="https://www.gdut.edu.cn/"><img class="jpg" src="/Joshchen215/images/gdut_logo.jpg" width="20pt"></a> 广东工业大学 信息管理与信息系统, 广东广州, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
